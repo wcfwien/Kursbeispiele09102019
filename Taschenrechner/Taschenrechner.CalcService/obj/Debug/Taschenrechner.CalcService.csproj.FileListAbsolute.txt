@@ -1,0 +1,12 @@
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe.config
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.csprojAssemblyReference.cache
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.ProjectInstaller.resources
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.csproj.GenerateResource.cache
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.csproj.CopyComplete
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.exe
+C:\Trainings\Taschenrechner\Taschenrechner.CalcService\obj\Debug\Taschenrechner.CalcService.pdb

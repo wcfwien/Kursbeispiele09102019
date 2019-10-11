@@ -1,0 +1,6 @@
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Release\Taschenrechner.pdb
+C:\Trainings\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.csprojAssemblyReference.cache
+C:\Trainings\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner\obj\Release\Taschenrechner.pdb

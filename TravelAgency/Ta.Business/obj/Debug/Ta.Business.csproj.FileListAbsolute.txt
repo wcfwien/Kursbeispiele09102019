@@ -1,0 +1,8 @@
+C:\Trainings\TravelAgency\Ta.Business\bin\Debug\Ta.Business.dll
+C:\Trainings\TravelAgency\Ta.Business\bin\Debug\Ta.Business.pdb
+C:\Trainings\TravelAgency\Ta.Business\bin\Debug\Ta.Data.dll
+C:\Trainings\TravelAgency\Ta.Business\bin\Debug\Ta.Data.pdb
+C:\Trainings\TravelAgency\Ta.Business\obj\Debug\Ta.Business.csprojAssemblyReference.cache
+C:\Trainings\TravelAgency\Ta.Business\obj\Debug\Ta.Business.csproj.CopyComplete
+C:\Trainings\TravelAgency\Ta.Business\obj\Debug\Ta.Business.dll
+C:\Trainings\TravelAgency\Ta.Business\obj\Debug\Ta.Business.pdb

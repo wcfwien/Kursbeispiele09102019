@@ -1,0 +1,5 @@
+C:\Trainings\TravelAgency\Ta.Data\bin\Debug\Ta.Data.dll
+C:\Trainings\TravelAgency\Ta.Data\bin\Debug\Ta.Data.pdb
+C:\Trainings\TravelAgency\Ta.Data\obj\Debug\Ta.Data.csprojAssemblyReference.cache
+C:\Trainings\TravelAgency\Ta.Data\obj\Debug\Ta.Data.dll
+C:\Trainings\TravelAgency\Ta.Data\obj\Debug\Ta.Data.pdb

@@ -1,0 +1,36 @@
+﻿Installing assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Rolling back assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Installing assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Installing service ServiceRechner...
+Service ServiceRechner has been successfully installed.
+Creating EventLog source ServiceRechner in log Application...
+Committing assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Installing assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Installing service ServiceRechner...
+Creating EventLog source ServiceRechner in log Application...
+Rolling back assembly 'C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.InstallLog
+   assemblypath = C:\Trainings\Taschenrechner\Taschenrechner.CalcService\bin\Debug\Taschenrechner.CalcService.exe
+Restoring event log to previous state for source ServiceRechner.

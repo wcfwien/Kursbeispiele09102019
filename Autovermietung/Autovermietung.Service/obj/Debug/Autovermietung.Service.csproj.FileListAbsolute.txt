@@ -1,0 +1,6 @@
+C:\Trainings\Autovermietung\Autovermietung.Service\bin\Debug\Autovermietung.Service.exe.config
+C:\Trainings\Autovermietung\Autovermietung.Service\bin\Debug\Autovermietung.Service.exe
+C:\Trainings\Autovermietung\Autovermietung.Service\bin\Debug\Autovermietung.Service.pdb
+C:\Trainings\Autovermietung\Autovermietung.Service\obj\Debug\Autovermietung.Service.csprojAssemblyReference.cache
+C:\Trainings\Autovermietung\Autovermietung.Service\obj\Debug\Autovermietung.Service.exe
+C:\Trainings\Autovermietung\Autovermietung.Service\obj\Debug\Autovermietung.Service.pdb

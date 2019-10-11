@@ -1,0 +1,6 @@
+C:\Trainings\WcfSecurity\Security.Host\bin\Debug\Security.Host.exe.config
+C:\Trainings\WcfSecurity\Security.Host\bin\Debug\Security.Host.exe
+C:\Trainings\WcfSecurity\Security.Host\bin\Debug\Security.Host.pdb
+C:\Trainings\WcfSecurity\Security.Host\obj\Debug\Security.Host.csprojAssemblyReference.cache
+C:\Trainings\WcfSecurity\Security.Host\obj\Debug\Security.Host.exe
+C:\Trainings\WcfSecurity\Security.Host\obj\Debug\Security.Host.pdb

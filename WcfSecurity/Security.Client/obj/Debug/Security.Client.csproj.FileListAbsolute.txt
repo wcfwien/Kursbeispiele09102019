@@ -1,0 +1,10 @@
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Client.exe.config
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Client.exe
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Client.pdb
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Host.exe
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Host.pdb
+C:\Trainings\WcfSecurity\Security.Client\bin\Debug\Security.Host.exe.config
+C:\Trainings\WcfSecurity\Security.Client\obj\Debug\Security.Client.csprojAssemblyReference.cache
+C:\Trainings\WcfSecurity\Security.Client\obj\Debug\Security.Client.csproj.CopyComplete
+C:\Trainings\WcfSecurity\Security.Client\obj\Debug\Security.Client.exe
+C:\Trainings\WcfSecurity\Security.Client\obj\Debug\Security.Client.pdb

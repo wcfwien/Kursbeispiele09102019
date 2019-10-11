@@ -1,0 +1,6 @@
+C:\Trainings\Taschenrechner\Demo.Host\bin\Debug\Demo.Host.dll.config
+C:\Trainings\Taschenrechner\Demo.Host\bin\Debug\Demo.Host.dll
+C:\Trainings\Taschenrechner\Demo.Host\bin\Debug\Demo.Host.pdb
+C:\Trainings\Taschenrechner\Demo.Host\obj\Debug\Demo.Host.csprojAssemblyReference.cache
+C:\Trainings\Taschenrechner\Demo.Host\obj\Debug\Demo.Host.dll
+C:\Trainings\Taschenrechner\Demo.Host\obj\Debug\Demo.Host.pdb

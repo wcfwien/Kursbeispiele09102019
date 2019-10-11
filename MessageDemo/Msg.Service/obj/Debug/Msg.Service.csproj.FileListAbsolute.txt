@@ -1,0 +1,6 @@
+C:\Trainings\MessageDemo\Msg.Service\bin\Debug\Msg.Service.exe.config
+C:\Trainings\MessageDemo\Msg.Service\bin\Debug\Msg.Service.exe
+C:\Trainings\MessageDemo\Msg.Service\bin\Debug\Msg.Service.pdb
+C:\Trainings\MessageDemo\Msg.Service\obj\Debug\Msg.Service.csprojAssemblyReference.cache
+C:\Trainings\MessageDemo\Msg.Service\obj\Debug\Msg.Service.exe
+C:\Trainings\MessageDemo\Msg.Service\obj\Debug\Msg.Service.pdb

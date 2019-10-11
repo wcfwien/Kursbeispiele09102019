@@ -1,0 +1,6 @@
+C:\Trainings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll.config
+C:\Trainings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+C:\Trainings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Trainings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Trainings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Trainings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

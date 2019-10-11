@@ -1,0 +1,10 @@
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.ConsoleApp.exe.config
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.ConsoleApp.exe
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.ConsoleApp.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\bin\Debug\Taschenrechner.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\obj\Debug\Taschenrechner.ConsoleApp.csprojAssemblyReference.cache
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\obj\Debug\Taschenrechner.ConsoleApp.csproj.CopyComplete
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\obj\Debug\Taschenrechner.ConsoleApp.exe
+C:\Trainings\Taschenrechner\Taschenrechner.ConsoleApp\obj\Debug\Taschenrechner.ConsoleApp.pdb

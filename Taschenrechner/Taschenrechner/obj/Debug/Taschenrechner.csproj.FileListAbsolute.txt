@@ -1,0 +1,5 @@
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Trainings\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb

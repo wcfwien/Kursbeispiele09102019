@@ -1,0 +1,10 @@
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.IISApp.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.IISApp.dll
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.IISApp.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.dll
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.pdb
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\bin\Taschenrechner.dll.config
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\obj\Release\Taschenrechner.IISApp.csprojAssemblyReference.cache
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\obj\Release\Taschenrechner.IISApp.csproj.CopyComplete
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\obj\Release\Taschenrechner.IISApp.dll
+C:\Trainings\Taschenrechner\Taschenrechner.IISApp\obj\Release\Taschenrechner.IISApp.pdb
